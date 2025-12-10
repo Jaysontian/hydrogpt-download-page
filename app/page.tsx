@@ -20,7 +20,7 @@ export default function Home() {
             <span className="font-display font-semibold text-lg tracking-tight">EcoGPT</span>
           </div>
           <a
-            href="https://github.com/simonaszilinskas/ai-impact-tracker"
+            href="https://github.com/igupta1/hydrogpt-final-project"
             target="_blank"
             rel="noopener noreferrer"
             className="text-sm text-white/60 hover:text-white transition-colors flex items-center gap-2"
