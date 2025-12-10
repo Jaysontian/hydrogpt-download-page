@@ -13,7 +13,7 @@ const spaceGrotesk = Space_Grotesk({
 });
 
 export const metadata: Metadata = {
-  title: "AI Impact Tracker - See Your AI Environmental Footprint",
+  title: "EcoGPT - See Your AI Environmental Footprint",
   description:
     "Track the environmental impact of your AI usage with real-time energy consumption metrics. A privacy-focused Chrome extension.",
   keywords: ["AI", "environmental impact", "energy tracking", "ChatGPT", "Chrome extension"],
